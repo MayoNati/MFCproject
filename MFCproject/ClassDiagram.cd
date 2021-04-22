@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="EllipseF" Collapsed="true">
+    <Position X="0.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAgAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>EllipseF.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Figure" Collapsed="true">
+    <Position X="1.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABBCIAAUAgwAwEAAAQAAAyCAUACEARAAAAAAAAA=</HashCode>
+      <FileName>Figure.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CMFCprojectApp" Collapsed="true">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAACAAAQAAAAAAAAAAAA=</HashCode>
+      <FileName>MFCproject.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CMFCprojectDlg" Collapsed="true">
+    <Position X="7" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAECAAQAAAAqABAgAABAABAAAESAABCACAAQAAE=</HashCode>
+      <FileName>MFCprojectDlg.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RectangleM" Collapsed="true">
+    <Position X="2.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>RectangleM.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
